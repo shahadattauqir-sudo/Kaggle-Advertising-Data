@@ -1,0 +1,8 @@
+Model,CV_R2_Mean,CV_R2_Std,Test_R2,Test_Adj_R2,Test_MAE,Test_RMSE,Test_MAPE(%)
+Polynomial Regression (Deg 2),0.9778,0.017,0.9869,0.9858,0.5262,0.6426,4.89
+Gradient Boosting Regressor,0.9641,0.0144,0.9805,0.9789,0.6306,0.7849,5.54
+Random Forest Regressor,0.9639,0.0122,0.9801,0.9784,0.6316,0.7934,5.6
+Support Vector Regressor (SVR),0.9608,0.0262,0.9754,0.9733,0.6421,0.8818,6.32
+Lasso Regression (L1),0.8704,0.0717,0.8996,0.8912,1.4598,1.7806,15.18
+Ridge Regression (L2),0.8703,0.0718,0.8994,0.8911,1.4608,1.7816,15.2
+Linear Regression,0.8703,0.0718,0.8994,0.8911,1.4608,1.7816,15.2
